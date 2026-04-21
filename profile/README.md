@@ -70,7 +70,3 @@ Mit unserer fundierten Fachkenntnis und Erfahrung im Mobilfunk können wir Sie b
 Wir entwickeln passgenaue Lösungen für eine bessere Vernetzung und innovative Dienstleistungen.  
 
 Vor allem in den Bereichen Netzausbau und -betrieb, Vertriebsunterstützung sowie Business Development sind wir Experten und koordinieren messbare Projekte mit dem Ziel, die Qualität, die Effizienz und den Ertrag Ihres Unternehmens zu steigern.  
-
----
-
-## 🏆 Unsere Auszeichnungen  
